@@ -1,0 +1,466 @@
+﻿icd10,disease_bn,sentence_no,symptom_en,source
+A09,ডায়রিয়া (বড়দের),1,loose stools again and again,original_v1
+A09,ডায়রিয়া (বড়দের),2,the stool is completely watery,original_v1
+A09,ডায়রিয়া (বড়দের),3,"been to the toilet five or six times since morning, stomach is cramping",original_v1
+A09,ডায়রিয়া (বড়দের),4,"upset stomach and feeling weak, mouth going dry",original_v1
+A09,ডায়রিয়া (বড়দের),5,loose motions started after eating stale food,original_v1
+A09,ডায়রিয়া (বড়দের),6,"bowels have been loose for two days, nothing stops it",original_v1
+A09,ডায়রিয়া (বড়দের),7,loose stools with stomach cramps and gas,original_v1
+A09,ডায়রিয়া (বড়দের),8,"stomach has given way, also feeling nauseous",original_v1
+A09,ডায়রিয়া (বড়দের),9,stomach upset after eating outside food,original_v1
+A09,ডায়রিয়া (বড়দের),10,"loose motions and feeling dizzy, cannot stand up",original_v1
+A09,ডায়রিয়া (বড়দের),11,"having to run to the toilet, cannot hold the stool",original_v1
+A09,ডায়রিয়া (বড়দের),12,bowels loose and feeling very thirsty,original_v1
+A09,ডায়রিয়া (বড়দের),13,loose stools and stomach pain since last night,original_v1
+A09,ডায়রিয়া (বড়দের),14,"stools turning loose, no appetite at all",original_v1
+A09,ডায়রিয়া (বড়দের),15,"upset stomach for three days, body is wasting away",original_v1
+A09.1,শিশুর ডায়রিয়া,1,the child is passing loose stools,original_v1
+A09.1,শিশুর ডায়রিয়া,2,the baby's bowels are loose and he is refusing milk,original_v1
+A09.1,শিশুর ডায়রিয়া,3,the boy's stool is watery and frequent,original_v1
+A09.1,শিশুর ডায়রিয়া,4,the child has gone limp after the loose motions,original_v1
+A09.1,শিশুর ডায়রিয়া,5,child has an upset stomach and is vomiting too,original_v1
+A09.1,শিশুর ডায়রিয়া,6,the baby keeps crying and passing stool repeatedly,original_v1
+A09.1,শিশুর ডায়রিয়া,7,small child with loose stools for two days,original_v1
+A09.1,শিশুর ডায়রিয়া,8,"the child will not drink water, eyes look sunken",original_v1
+A09.1,শিশুর ডায়রিয়া,9,the baby's stool is yellow and watery with a foul smell,original_v1
+A09.1,শিশুর ডায়রিয়া,10,child has diarrhoea and is passing very little urine,original_v1
+A09.1,শিশুর ডায়রিয়া,11,"the baby is drowsy, the loose motions will not stop",original_v1
+A09.1,শিশুর ডায়রিয়া,12,the boy's bowels are loose and he is losing weight,original_v1
+A09.1,শিশুর ডায়রিয়া,13,child's loose stools along with a mild fever,original_v1
+A09.1,শিশুর ডায়রিয়া,14,"the baby is not taking the breast, stomach is upset",original_v1
+A09.1,শিশুর ডায়রিয়া,15,small child with loose stools and a bloated stomach,original_v1
+B82.0,কৃমি,1,worms came out with the stool,original_v1
+B82.0,কৃমি,2,severe itching around the anus at night,original_v1
+B82.0,কৃমি,3,the child has stomach pain and will not eat,original_v1
+B82.0,কৃমি,4,occasional cramping in the stomach although stools are normal,original_v1
+B82.0,কৃমি,5,no appetite yet not gaining any weight,original_v1
+B82.0,কৃমি,6,the child cannot sleep at night due to itching at the bottom,original_v1
+B82.0,কৃমি,7,something like white threads is visible in the stool,original_v1
+B82.0,কৃমি,8,stomach feels bloated with occasional pain,original_v1
+B82.0,কৃমি,9,the child drools at night and grinds his teeth,original_v1
+B82.0,কৃমি,10,"eats a lot but it does not show on the body, feels weak",original_v1
+B82.0,কৃমি,11,the child has stomach pain around the navel,original_v1
+B82.0,কৃমি,12,"itching at the anus, worse at night",original_v1
+B82.0,কৃমি,13,the child is wasting away though the stomach looks swollen,original_v1
+B82.0,কৃমি,14,small white worms pass with the stool sometimes,original_v1
+B82.0,কৃমি,15,the child's appetite has dropped and he feels nauseous,original_v1
+R50.9,জ্বর (সাধারণ),1,"the body is hot, fever has come",original_v1
+R50.9,জ্বর (সাধারণ),2,fever and body ache for two days,original_v1
+R50.9,জ্বর (সাধারণ),3,fever coming on with shivering,original_v1
+R50.9,জ্বর (সাধারণ),4,fever along with a headache,original_v1
+R50.9,জ্বর (সাধারণ),5,the body feels hot and weak,original_v1
+R50.9,জ্বর (সাধারণ),6,fever of a hundred and two for three days,original_v1
+R50.9,জ্বর (সাধারণ),7,fever rises at night and drops during the day,original_v1
+R50.9,জ্বর (সাধারণ),8,the body aches all over with a feverish feeling,original_v1
+R50.9,জ্বর (সাধারণ),9,"burning up with fever, unable to eat",original_v1
+R50.9,জ্বর (সাধারণ),10,fever with aching arms and legs,original_v1
+R50.9,জ্বর (সাধারণ),11,body is hot yet feeling cold,original_v1
+R50.9,জ্বর (সাধারণ),12,fever has not left for three days,original_v1
+R50.9,জ্বর (সাধারণ),13,appetite gone completely with the fever,original_v1
+R50.9,জ্বর (সাধারণ),14,body is hot and the head feels heavy,original_v1
+R50.9,জ্বর (সাধারণ),15,mild fever but the body is very weak,original_v1
+A90,ডেঙ্গু সন্দেহ,1,sudden high fever with pain behind the eyes,original_v1
+A90,ডেঙ্গু সন্দেহ,2,fever with red spots appearing on the body,original_v1
+A90,ডেঙ্গু সন্দেহ,3,very high fever with pain deep in the bones,original_v1
+A90,ডেঙ্গু সন্দেহ,4,"fever and headache, painful to move the eyes",original_v1
+A90,ডেঙ্গু সন্দেহ,5,dengue is going around the area and I have a fever too,original_v1
+A90,ডেঙ্গু সন্দেহ,6,fever with bleeding from the gums,original_v1
+A90,ডেঙ্গু সন্দেহ,7,high fever with vomiting and stomach pain,original_v1
+A90,ডেঙ্গু সন্দেহ,8,the fever has come down but the body feels very weak,original_v1
+A90,ডেঙ্গু সন্দেহ,9,"body aches so much I cannot move, and there is fever",original_v1
+A90,ডেঙ্গু সন্দেহ,10,high fever after mosquito bites,original_v1
+A90,ডেঙ্গু সন্দেহ,11,fever with an itchy red rash on the body,original_v1
+A90,ডেঙ্গু সন্দেহ,12,fever for five days with spots showing on the body,original_v1
+A90,ডেঙ্গু সন্দেহ,13,fever with severe pain in the waist and back,original_v1
+A90,ডেঙ্গু সন্দেহ,14,nosebleed along with fever,original_v1
+A90,ডেঙ্গু সন্দেহ,15,fever with small red dots on the body,original_v1
+J00,সাধারণ সর্দি-কাশি,1,sneezing and a runny nose,original_v1
+J00,সাধারণ সর্দি-কাশি,2,nose is blocked and it is hard to breathe,original_v1
+J00,সাধারণ সর্দি-কাশি,3,scratchy throat with a mild cough,original_v1
+J00,সাধারণ সর্দি-কাশি,4,"caught a cold, the nose keeps running",original_v1
+J00,সাধারণ সর্দি-কাশি,5,cold and cough with a heavy head,original_v1
+J00,সাধারণ সর্দি-কাশি,6,sore throat with repeated sneezing,original_v1
+J00,সাধারণ সর্দি-কাশি,7,runny nose and burning eyes,original_v1
+J00,সাধারণ সর্দি-কাশি,8,caught a cold and the voice has gone hoarse,original_v1
+J00,সাধারণ সর্দি-কাশি,9,coughing with a slightly feverish feeling,original_v1
+J00,সাধারণ সর্দি-কাশি,10,"nose blocked with the cold, cannot sleep",original_v1
+J00,সাধারণ সর্দি-কাশি,11,itchy throat with a dry cough,original_v1
+J00,সাধারণ সর্দি-কাশি,12,"sneezing constantly, feeling restless",original_v1
+J00,সাধারণ সর্দি-কাশি,13,caught a cold and the ears feel blocked,original_v1
+J00,সাধারণ সর্দি-কাশি,14,runny nose and a headache,original_v1
+J00,সাধারণ সর্দি-কাশি,15,cold and cough for three or four days,original_v1
+J18.9,নিউমোনিয়া,1,cough bringing up phlegm along with fever,original_v1
+J18.9,নিউমোনিয়া,2,difficulty breathing with chest pain,original_v1
+J18.9,নিউমোনিয়া,3,fever with shivering and a heavy cough,original_v1
+J18.9,নিউমোনিয়া,4,chest hurts when coughing,original_v1
+J18.9,নিউমোনিয়া,5,"phlegm is yellow-green in colour, with fever",original_v1
+J18.9,নিউমোনিয়া,6,"breathing is fast, the chest is heaving",original_v1
+J18.9,নিউমোনিয়া,7,the child is breathing fast and the chest is drawing in,original_v1
+J18.9,নিউমোনিয়া,8,"three days of fever and the cough will not settle, chest feels heavy",original_v1
+J18.9,নিউমোনিয়া,9,cough with fever and unable to eat,original_v1
+J18.9,নিউমোনিয়া,10,a rattling sound in the chest when coughing,original_v1
+J18.9,নিউমোনিয়া,11,"fever and breathlessness, cannot lie down",original_v1
+J18.9,নিউমোনিয়া,12,"coughing until breathless, and there is fever",original_v1
+J18.9,নিউমোনিয়া,13,"chest pain that worsens on breathing in, with fever",original_v1
+J18.9,নিউমোনিয়া,14,productive cough for a week with fever coming and going,original_v1
+J18.9,নিউমোনিয়া,15,an elderly patient cannot breathe properly and has fever,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,1,burning in the chest after eating,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,2,sour belching and burning in the throat,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,3,burning in the stomach when empty,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,4,pain in the upper abdomen that eases after eating,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,5,"gas problem, the stomach feels bloated",original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,6,the burning in the chest worsens on lying down,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,7,the chest burns whenever I eat spicy food,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,8,gas in the stomach with constant belching,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,9,burning in the middle of the chest after meals,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,10,sour fluid comes up into the mouth,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,11,"stomach feels heavy, no desire to eat",original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,12,chest burning after the night meal keeps me awake,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,13,long-standing gas problem that eases with medicine,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,14,burning in the stomach with occasional nausea,original_v1
+K30,গ্যাস্ট্রিক/অম্লতা,15,stomach pain starts whenever the stomach is empty,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,1,burning when passing urine,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,2,passing urine frequently but only a little each time,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,3,it hurts to pass urine,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,4,lower abdominal pain with burning on urination,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,5,urine is cloudy and smells foul,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,6,cannot hold the urine,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,7,burning continues after finishing urination,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,8,a little blood is passing with the urine,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,9,having to get up repeatedly at night to urinate,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,10,burning urine along with a mild fever,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,11,pain in the waist with trouble passing urine,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,12,"great difficulty passing urine, have to strain",original_v1
+N39.0,মূত্রনালীর সংক্রমণ,13,"lower abdomen feels heavy, the bladder does not empty",original_v1
+N39.0,মূত্রনালীর সংক্রমণ,14,burning on urination for three days,original_v1
+N39.0,মূত্রনালীর সংক্রমণ,15,pain on both sides of the back with burning urine,original_v1
+I10,উচ্চ রক্তচাপ,1,blood pressure has gone up and the head is spinning,original_v1
+I10,উচ্চ রক্তচাপ,2,the neck feels heavy and the head aches,original_v1
+I10,উচ্চ রক্তচাপ,3,dizziness with blurred vision,original_v1
+I10,উচ্চ রক্তচাপ,4,measured the pressure and it was very high,original_v1
+I10,উচ্চ রক্তচাপ,5,"pain at the back of the head, worse in the morning",original_v1
+I10,উচ্চ রক্তচাপ,6,a hypertension patient whose medicine has run out,original_v1
+I10,উচ্চ রক্তচাপ,7,head feels light and the heart is pounding,original_v1
+I10,উচ্চ রক্তচাপ,8,pressure stays high and I feel tired all the time,original_v1
+I10,উচ্চ রক্তচাপ,9,the neck feels stiff and the head feels tight,original_v1
+I10,উচ্চ রক্তচাপ,10,"sudden dizziness, feels like falling over",original_v1
+I10,উচ্চ রক্তচাপ,11,taking pressure medicine but still getting headaches,original_v1
+I10,উচ্চ রক্তচাপ,12,"blurred vision and heaviness in the head, pressure is high",original_v1
+I10,উচ্চ রক্তচাপ,13,"cannot sleep at night, the pressure keeps fluctuating",original_v1
+I10,উচ্চ রক্তচাপ,14,headache with a ringing sound in the ears,original_v1
+I10,উচ্চ রক্তচাপ,15,the doctor said the pressure is high and medicine is needed,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),1,"very thirsty, drinking water repeatedly",original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),2,"passing urine frequently, especially at night",original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),3,losing weight although eating more,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),4,wounds take a long time to heal,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),5,"always tired, no strength in the body",original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),6,a diabetic patient whose sugar has risen,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),7,tingling and numbness in the feet,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),8,very hungry but the body keeps wasting,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),9,"blurred vision, sugar is high",original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),10,frequent urination and the mouth keeps drying,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),11,"a sore on the foot that will not heal, and I have diabetes",original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),12,checked the sugar and it came out very high,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),13,itching over the body and feeling weak,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),14,taking diabetes medicine but the sugar is not controlled,original_v1
+E11.9,ডায়াবেটিস (টাইপ ২),15,waking repeatedly at night to urinate and feeling thirsty,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),1,round patches on the skin that itch,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),2,"ringworm has appeared, itching badly",original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),3,itching in the groin with red patches,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),4,the patch has a raised edge and a clear centre,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),5,itching where I sweat and the patch is spreading,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),6,itching between the toes and the skin is peeling,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),7,"itching in the armpit, the skin has turned reddish",original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),8,dandruff-like flakes on the scalp with itching,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),9,the patches on the skin are growing day by day,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),10,the nails are thickening and turning yellow,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),11,fungal-looking patches on the body that worsen with sweat,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),12,"round patch on the waist, scratched until it became a sore",original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),13,the patches itch more in hot weather,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),14,an old ringworm that fades with cream and comes back,original_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),15,"itching at the skin patches, worse at night",original_v1
+B86,ঘা-পাঁচড়া,1,"severe itching at night, cannot sleep",original_v1
+B86,ঘা-পাঁচড়া,2,small bumps between the fingers with itching,original_v1
+B86,ঘা-পাঁচড়া,3,everyone in the family has the same itching,original_v1
+B86,ঘা-পাঁচড়া,4,"scabies on the body, scratched until it became a sore",original_v1
+B86,ঘা-পাঁচড়া,5,small bumps on the waist and stomach that itch badly,original_v1
+B86,ঘা-পাঁচড়া,6,the itching worsens at night and eases during the day,original_v1
+B86,ঘা-পাঁচড়া,7,bumps have come up on the wrist and they itch,original_v1
+B86,ঘা-পাঁচড়া,8,the child has bumps all over the body with itching,original_v1
+B86,ঘা-পাঁচড়া,9,the skin is grazed from scratching and has become infected,original_v1
+B86,ঘা-পাঁচড়া,10,small eruptions in the armpit and waist that itch,original_v1
+B86,ঘা-পাঁচড়া,11,"looks like scabies, everyone in the house is getting it",original_v1
+B86,ঘা-পাঁচড়া,12,"thin red lines visible on the skin, and they itch",original_v1
+B86,ঘা-পাঁচড়া,13,restless at night from scratching the body,original_v1
+B86,ঘা-পাঁচড়া,14,sores between the fingers from scratching,original_v1
+B86,ঘা-পাঁচড়া,15,itching for a month that medicine has not settled,original_v1
+M13.9,বাতের ব্যথা,1,knee pain with joint stiffness in the morning,original_v1
+M13.9,বাতের ব্যথা,2,joint pain all over the body with swelling,original_v1
+M13.9,বাতের ব্যথা,3,pain in the joints of the hands and feet,original_v1
+M13.9,বাতের ব্যথা,4,difficulty making a fist on waking,original_v1
+M13.9,বাতের ব্যথা,5,the knee has swollen and it is hard to walk,original_v1
+M13.9,বাতের ব্যথা,6,the joint pain worsens in cold weather,original_v1
+M13.9,বাতের ব্যথা,7,"pain in the waist and knees, cannot climb stairs",original_v1
+M13.9,বাতের ব্যথা,8,the finger joints are swollen and painful,original_v1
+M13.9,বাতের ব্যথা,9,long-standing arthritis that eases with medicine,original_v1
+M13.9,বাতের ব্যথা,10,knee pain with a cracking sound,original_v1
+M13.9,বাতের ব্যথা,11,the joints stay stiff for half an hour in the morning,original_v1
+M13.9,বাতের ব্যথা,12,"pain in the shoulder and neck, hard to move",original_v1
+M13.9,বাতের ব্যথা,13,joint pain with mild swelling and warmth,original_v1
+M13.9,বাতের ব্যথা,14,an elderly patient who cannot walk for knee pain,original_v1
+M13.9,বাতের ব্যথা,15,the joint pain worsens on rainy days,original_v1
+H10.9,চোখ ওঠা,1,the eye has turned red and is discharging,original_v1
+H10.9,চোখ ওঠা,2,the eyes were stuck shut on waking this morning,original_v1
+H10.9,চোখ ওঠা,3,"gritty feeling in the eye, as if sand has got in",original_v1
+H10.9,চোখ ওঠা,4,the eye is red and watering,original_v1
+H10.9,চোখ ওঠা,5,"conjunctivitis, the eye has swollen",original_v1
+H10.9,চোখ ওঠা,6,sticky yellow discharge collecting in the eye,original_v1
+H10.9,চোখ ওঠা,7,both eyes have turned red and itch,original_v1
+H10.9,চোখ ওঠা,8,"conjunctivitis, cannot tolerate light",original_v1
+H10.9,চোখ ওঠা,9,someone else at home has conjunctivitis too,original_v1
+H10.9,চোখ ওঠা,10,the eyelid is swollen and red,original_v1
+H10.9,চোখ ওঠা,11,burning in the eye with frequent watering,original_v1
+H10.9,চোখ ওঠা,12,conjunctivitis is going around the school and the child has it,original_v1
+H10.9,চোখ ওঠা,13,red eye with pain in the eye,original_v1
+H10.9,চোখ ওঠা,14,it has spread from one eye to the other,original_v1
+H10.9,চোখ ওঠা,15,discharge in the eye and blurred vision in the morning,original_v1
+R07.9,বুকে ব্যথা,1,pressure in the chest with pain in the left arm,original_v1
+R07.9,বুকে ব্যথা,2,a heavy pressing sensation in the middle of the chest,original_v1
+R07.9,বুকে ব্যথা,3,chest pain with sweating,original_v1
+R07.9,বুকে ব্যথা,4,chest pain with difficulty breathing,original_v1
+R07.9,বুকে ব্যথা,5,chest tightens on walking and eases with rest,original_v1
+R07.9,বুকে ব্যথা,6,chest pain spreading to the neck and jaw,original_v1
+R07.9,বুকে ব্যথা,7,sudden severe chest pain has started,original_v1
+R07.9,বুকে ব্যথা,8,the heart is pounding along with the pain,original_v1
+R07.9,বুকে ব্যথা,9,pressure in the chest with dizziness,original_v1
+R07.9,বুকে ব্যথা,10,chest pain with nausea and a cold sweat,original_v1
+R07.9,বুকে ব্যথা,11,pain in the left side of the chest running down the arm,original_v1
+R07.9,বুকে ব্যথা,12,"the chest feels gripped, as if breathless",original_v1
+R07.9,বুকে ব্যথা,13,chest pain on exertion that settles on stopping,original_v1
+R07.9,বুকে ব্যথা,14,an elderly patient in distress with chest pain,original_v1
+R07.9,বুকে ব্যথা,15,chest pain for twenty minutes that will not settle,original_v1
+Z34.9,গর্ভাবস্থা,1,"periods stopped two months ago, thinks she is pregnant",original_v1
+Z34.9,গর্ভাবস্থা,2,pregnant and feeling nauseous in the mornings,original_v1
+Z34.9,গর্ভাবস্থা,3,three months pregnant and feeling weak,original_v1
+Z34.9,গর্ভাবস্থা,4,no appetite during pregnancy,original_v1
+Z34.9,গর্ভাবস্থা,5,a pregnant woman who is anaemic,original_v1
+Z34.9,গর্ভাবস্থা,6,"pregnant, feeling dizzy and weak",original_v1
+Z34.9,গর্ভাবস্থা,7,five months pregnant with back pain,original_v1
+Z34.9,গর্ভাবস্থা,8,swelling in the legs during pregnancy,original_v1
+Z34.9,গর্ভাবস্থা,9,"pregnant for the first time, asking what to eat",original_v1
+Z34.9,গর্ভাবস্থা,10,a pregnant woman who needs vitamins,original_v1
+Z34.9,গর্ভাবস্থা,11,periods stopped and the test came out positive,original_v1
+Z34.9,গর্ভাবস্থা,12,seven months pregnant and feeling weak,original_v1
+Z34.9,গর্ভাবস্থা,13,"vomiting in pregnancy will not stop, cannot eat",original_v1
+Z34.9,গর্ভাবস্থা,14,a pregnant woman with low blood and low haemoglobin,original_v1
+Z34.9,গর্ভাবস্থা,15,constipation during pregnancy,original_v1
+K08.8,দাঁতে ব্যথা,1,severe pain in the tooth,original_v1
+K08.8,দাঁতে ব্যথা,2,the gum has swollen and is painful,original_v1
+K08.8,দাঁতে ব্যথা,3,the tooth is sensitive to cold water,original_v1
+K08.8,দাঁতে ব্যথা,4,could not sleep last night from toothache,original_v1
+K08.8,দাঁতে ব্যথা,5,pain and swelling at the root of the tooth,original_v1
+K08.8,দাঁতে ব্যথা,6,the tooth has decayed and formed a cavity that hurts,original_v1
+K08.8,দাঁতে ব্যথা,7,the tooth hurts on chewing,original_v1
+K08.8,দাঁতে ব্যথা,8,the gums bleed and are painful,original_v1
+K08.8,দাঁতে ব্যথা,9,the wisdom tooth is coming through and it hurts a lot,original_v1
+K08.8,দাঁতে ব্যথা,10,toothache with swelling of the cheek,original_v1
+K08.8,দাঁতে ব্যথা,11,the toothache is spreading towards the ear,original_v1
+K08.8,দাঁতে ব্যথা,12,the tooth hurts more after eating something sweet,original_v1
+K08.8,দাঁতে ব্যথা,13,toothache for three days that medicine has not settled,original_v1
+K08.8,দাঁতে ব্যথা,14,pus in the gum and the tooth is loose,original_v1
+K08.8,দাঁতে ব্যথা,15,toothache with a mild fever,original_v1
+R50.9,জ্বর (সাধারণ),16,just a plain fever with no other symptom at all,expansion_v1
+R50.9,জ্বর (সাধারণ),17,"temperature is up but no cough, no eye pain, no rash, nothing else",expansion_v1
+R50.9,জ্বর (সাধারণ),18,"fever on and off for two days, otherwise feels normal",expansion_v1
+R50.9,জ্বর (সাধারণ),19,"mild fever, no chest problem, no pain anywhere specific",expansion_v1
+R50.9,জ্বর (সাধারণ),20,"fever came suddenly, no other complaint besides the heat in the body",expansion_v1
+R50.9,জ্বর (সাধারণ),21,"low-grade fever, appetite is fine, no other symptom noticed",expansion_v1
+R50.9,জ্বর (সাধারণ),22,"fever alone, no bleeding, no rash, no breathing trouble",expansion_v1
+R50.9,জ্বর (সাধারণ),23,"body feels warm on and off, nothing else seems wrong",expansion_v1
+R50.9,জ্বর (সাধারণ),24,"slight fever for a day, no cough or pain accompanying it",expansion_v1
+R50.9,জ্বর (সাধারণ),25,"fever without any accompanying symptom, otherwise active and eating well",expansion_v1
+A90,ডেঙ্গু সন্দেহ,16,fever with sharp pain behind both eyes,expansion_v1
+A90,ডেঙ্গু সন্দেহ,17,high fever and a rash of small red spots appearing on the arms,expansion_v1
+A90,ডেঙ্গু সন্দেহ,18,fever accompanied by bleeding gums and severe joint pain,expansion_v1
+A90,ডেঙ্গু সন্দেহ,19,fever with pain deep behind the eyes that worsens on moving them,expansion_v1
+A90,ডেঙ্গু সন্দেহ,20,"sudden high fever, red rash spreading on the body, severe body ache",expansion_v1
+A90,ডেঙ্গু সন্দেহ,21,fever with a nosebleed and small red spots under the skin,expansion_v1
+A90,ডেঙ্গু সন্দেহ,22,"fever, pain behind the eyes, and unusually severe muscle and joint pain",expansion_v1
+A90,ডেঙ্গু সন্দেহ,23,fever for four days now with a red rash and bleeding from the gums,expansion_v1
+A90,ডেঙ্গু সন্দেহ,24,very high fever with intense pain behind the eyeballs,expansion_v1
+A90,ডেঙ্গু সন্দেহ,25,fever with red spots on the skin and platelet count found low,expansion_v1
+J18.9,নিউমোনিয়া,16,"cough with thick phlegm, fever, and shortness of breath together",expansion_v1
+J18.9,নিউমোনিয়া,17,fast breathing with chest pain and a productive cough,expansion_v1
+J18.9,নিউমোনিয়া,18,high fever with a cough bringing up coloured phlegm and breathlessness,expansion_v1
+J18.9,নিউমোনিয়া,19,"chest hurts when coughing, breathing is laboured, fever is present",expansion_v1
+J18.9,নিউমোনিয়া,20,cough with phlegm and difficulty breathing that has lasted several days,expansion_v1
+J18.9,নিউমোনিয়া,21,"fever, cough with mucus, and the chest feels tight and painful",expansion_v1
+J18.9,নিউমোনিয়া,22,"breathing quickly with the chest drawing in, cough and fever present",expansion_v1
+J18.9,নিউমোনিয়া,23,"persistent cough with phlegm, fever, and noticeable breathlessness",expansion_v1
+J18.9,নিউমোনিয়া,24,"chest pain on breathing, cough with sputum, and ongoing fever",expansion_v1
+J18.9,নিউমোনিয়া,25,cough that brings up phlegm together with fever and laboured breathing,expansion_v1
+A09,ডায়রিয়া (বড়দের),16,"stool has become completely watery, going to the toilet again and again",expansion_v1
+A09,ডায়রিয়া (বড়দের),17,"loose, watery stools multiple times today, no worms seen",expansion_v1
+A09,ডায়রিয়া (বড়দের),18,bowel movements have turned liquid since yesterday,expansion_v1
+A09,ডায়রিয়া (বড়দের),19,"stools are loose and frequent, stomach cramping with each episode",expansion_v1
+A09,ডায়রিয়া (বড়দের),20,watery diarrhoea several times since this morning,expansion_v1
+A09,ডায়রিয়া (বড়দের),21,"stool consistency has changed to watery, happening repeatedly",expansion_v1
+A09,ডায়রিয়া (বড়দের),22,"loose motions many times a day, nothing solid passing at all",expansion_v1
+A09,ডায়রিয়া (বড়দের),23,"stool is thin and watery, occurring more than five times today",expansion_v1
+A09,ডায়রিয়া (বড়দের),24,"frequent watery stools since last night, no blood or worms noticed",expansion_v1
+A09,ডায়রিয়া (বড়দের),25,"bowel movements are loose and watery, body feeling weak from it",expansion_v1
+A09.1,শিশুর ডায়রিয়া,16,the infant's stool has become watery and frequent,expansion_v1
+A09.1,শিশুর ডায়রিয়া,17,my toddler is passing loose stools and refusing the bottle,expansion_v1
+A09.1,শিশুর ডায়রিয়া,18,"the baby girl's motions are watery, she seems drowsy",expansion_v1
+A09.1,শিশুর ডায়রিয়া,19,"my young son's stool is loose, he is crying and will not eat",expansion_v1
+A09.1,শিশুর ডায়রিয়া,20,the small child's bowel movements are frequent and watery,expansion_v1
+A09.1,শিশুর ডায়রিয়া,21,the baby boy has watery stools and his eyes look sunken,expansion_v1
+A09.1,শিশুর ডায়রিয়া,22,"our infant daughter's stool is loose, she refuses to breastfeed",expansion_v1
+A09.1,শিশুর ডায়রিয়া,23,"the little one's motions are watery, skin feels less elastic when pinched",expansion_v1
+A09.1,শিশুর ডায়রিয়া,24,"my toddler son has had watery stools since this morning, very lethargic",expansion_v1
+A09.1,শিশুর ডায়রিয়া,25,"the baby's diaper is wet often with watery stool, less urine than usual",expansion_v1
+B82.0,কৃমি,16,the child scratches around the anus especially at night,expansion_v1
+B82.0,কৃমি,17,"worms were seen in the stool, otherwise the stool looks normal",expansion_v1
+B82.0,কৃমি,18,anal itching at night that disturbs the child's sleep,expansion_v1
+B82.0,কৃমি,19,the stool itself is normal but there is itching around the bottom,expansion_v1
+B82.0,কৃমি,20,stomach discomfort with visible worms passed in a normal-looking stool,expansion_v1
+B82.0,কৃমি,21,"the boy keeps scratching his bottom at bedtime, no diarrhoea otherwise",expansion_v1
+B82.0,কৃমি,22,"poor appetite and weight not increasing, occasional stomach ache",expansion_v1
+B82.0,কৃমি,23,small white thread-like worms noticed in an otherwise normal stool,expansion_v1
+B82.0,কৃমি,24,child grinds teeth at night and scratches near the anus,expansion_v1
+B82.0,কৃমি,25,"itching around the anus worse at night, stool is not loose",expansion_v1
+J00,সাধারণ সর্দি-কাশি,16,runny nose and repeated sneezing since this morning,expansion_v1
+J00,সাধারণ সর্দি-কাশি,17,scratchy throat with a blocked nose and mild sneezing,expansion_v1
+J00,সাধারণ সর্দি-কাশি,18,"nose is running and the throat feels irritated, no fever",expansion_v1
+J00,সাধারণ সর্দি-কাশি,19,"sneezing fits with clear nasal discharge, otherwise feels fine",expansion_v1
+J00,সাধারণ সর্দি-কাশি,20,stuffy nose and sneezing after being caught in the rain,expansion_v1
+J00,সাধারণ সর্দি-কাশি,21,"mild sore throat with a runny nose, no cough or fever",expansion_v1
+J00,সাধারণ সর্দি-কাশি,22,watery nasal discharge and frequent sneezing today,expansion_v1
+J00,সাধারণ সর্দি-কাশি,23,"nose blocked at night, sneezing during the day",expansion_v1
+J00,সাধারণ সর্দি-কাশি,24,sneezing and a runny nose with slightly watery eyes,expansion_v1
+J00,সাধারণ সর্দি-কাশি,25,"cold symptoms — runny nose, sneezing, scratchy throat, nothing more",expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,16,burning sensation in the chest that worsens after spicy meals,expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,17,acidic taste rising into the throat after eating,expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,18,stomach discomfort right after meals with a sour belch,expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,19,"burning in the upper stomach area, relieved somewhat by eating",expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,20,chest burns when lying down soon after dinner,expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,21,bloating and gas with a burning feeling in the chest,expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,22,"acid reflux symptoms after a heavy meal, no chest pain on exertion",expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,23,"stomach burns on an empty stomach, eases after eating something",expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,24,frequent belching with a burning sensation behind the breastbone,expansion_v1
+K30,গ্যাস্ট্রিক/অম্লতা,25,indigestion and chest burning that comes and goes with meals,expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,16,sharp burning sensation while urinating,expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,17,urinating frequently in small amounts with discomfort,expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,18,lower abdomen feels heavy along with painful urination,expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,19,"cloudy, foul-smelling urine and a burning feeling when passing it",expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,20,constant urge to urinate but very little comes out each time,expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,21,pain in the lower belly and stinging during urination,expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,22,urine appears darker than usual with a burning sensation,expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,23,"frequent trips to the bathroom, urination itself is painful",expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,24,burning while urinating along with lower back discomfort,expansion_v1
+N39.0,মূত্রনালীর সংক্রমণ,25,urinary urgency and burning without much fever,expansion_v1
+I10,উচ্চ রক্তচাপ,16,persistent heaviness at the back of the head with high blood pressure readings,expansion_v1
+I10,উচ্চ রক্তচাপ,17,dizziness and blurred vision along with a high pressure reading,expansion_v1
+I10,উচ্চ রক্তচাপ,18,"a throbbing headache at the back of the head, blood pressure measured high",expansion_v1
+I10,উচ্চ রক্তচাপ,19,"feeling of pressure in the head, checked and blood pressure was elevated",expansion_v1
+I10,উচ্চ রক্তচাপ,20,recurrent headaches with a known history of high blood pressure,expansion_v1
+I10,উচ্চ রক্তচাপ,21,"head feels heavy most mornings, blood pressure machine shows high numbers",expansion_v1
+I10,উচ্চ রক্তচাপ,22,"dizzy spells with a tight feeling in the head, pressure reading elevated",expansion_v1
+I10,উচ্চ রক্তচাপ,23,ringing in the ears with a heavy head and high blood pressure,expansion_v1
+I10,উচ্চ রক্তচাপ,24,blood pressure reading consistently high with mild headaches,expansion_v1
+I10,উচ্চ রক্তচাপ,25,"neck stiffness and head heaviness, blood pressure found to be elevated",expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),16,excessive thirst that water does not seem to satisfy,expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),17,urinating frequently at night along with constant thirst,expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),18,unexplained weight loss despite eating normally,expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),19,wounds and cuts are healing very slowly,expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),20,increased hunger yet the body keeps losing weight,expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),21,blurred vision along with excessive thirst and frequent urination,expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),22,tingling sensation in the feet with a history of high blood sugar,expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),23,always feeling tired with frequent urination and thirst,expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),24,slow-healing sores on the foot with known high blood sugar,expansion_v1
+E11.9,ডায়াবেটিস (টাইপ ২),25,"sugar level checked and found to be very high, feeling constantly thirsty",expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),16,a ring-shaped patch on the skin with a raised itchy border,expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),17,circular reddish patches spreading on the inner thigh,expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),18,"flaky, itchy patches between the toes",expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),19,a scaly patch on the scalp resembling severe dandruff,expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),20,an itchy circular rash with a clear centre,expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),21,peeling skin in the groin area with intense itching,expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),22,ring-like patches on the skin that expand at the edges,expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),23,athlete's foot type itching and peeling between the toes,expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),24,several circular itchy patches appearing on the arms,expansion_v1
+B35.9,চর্মরোগ (ছত্রাক/দাদ),25,a spreading ring-shaped rash that itches more with sweating,expansion_v1
+B86,ঘা-পাঁচড়া,16,"intense itching all over the body, worse at night",expansion_v1
+B86,ঘা-পাঁচড়া,17,small burrow-like lines visible on the wrists and between fingers,expansion_v1
+B86,ঘা-পাঁচড়া,18,several family members have developed similar itching together,expansion_v1
+B86,ঘা-পাঁচড়া,19,tiny itchy bumps on the palms and wrists,expansion_v1
+B86,ঘা-পাঁচড়া,20,itching that keeps the whole family awake at night,expansion_v1
+B86,ঘা-পাঁচড়া,21,small blister-like lesions between the fingers that itch severely,expansion_v1
+B86,ঘা-পাঁচড়া,22,widespread itching with visible thread-like tracks on the skin,expansion_v1
+B86,ঘা-পাঁচড়া,23,night-time itching that has now spread to a sibling as well,expansion_v1
+B86,ঘা-পাঁচড়া,24,itchy rash concentrated around the waist and armpits,expansion_v1
+B86,ঘা-পাঁচড়া,25,"persistent itching for weeks, worse under blankets at night",expansion_v1
+M13.9,বাতের ব্যথা,16,"swollen, painful knee that is stiff first thing in the morning",expansion_v1
+M13.9,বাতের ব্যথা,17,joint pain in multiple fingers with visible swelling,expansion_v1
+M13.9,বাতের ব্যথা,18,morning stiffness in the joints lasting nearly an hour,expansion_v1
+M13.9,বাতের ব্যথা,19,knees crack and hurt when climbing or descending stairs,expansion_v1
+M13.9,বাতের ব্যথা,20,swollen joints that feel warm to the touch,expansion_v1
+M13.9,বাতের ব্যথা,21,"difficulty making a fist due to stiff, painful finger joints",expansion_v1
+M13.9,বাতের ব্যথা,22,pain in both knees that worsens with activity and eases with rest,expansion_v1
+M13.9,বাতের ব্যথা,23,joints ache more in cold or damp weather,expansion_v1
+M13.9,বাতের ব্যথা,24,"elderly patient with swollen knee joints, struggling to walk",expansion_v1
+M13.9,বাতের ব্যথা,25,chronic joint pain with visible swelling in the hands,expansion_v1
+H10.9,চোখ ওঠা,16,"red, itchy eyes with a sticky yellow discharge",expansion_v1
+H10.9,চোখ ওঠা,17,both eyes are red with the eyelids stuck together each morning,expansion_v1
+H10.9,চোখ ওঠা,18,"watery, red eye with a gritty sensation",expansion_v1
+H10.9,চোখ ওঠা,19,yellow discharge crusting on the eyelashes overnight,expansion_v1
+H10.9,চোখ ওঠা,20,one eye turned red and later the other eye followed,expansion_v1
+H10.9,চোখ ওঠা,21,"red, swollen eyelid with continuous watering",expansion_v1
+H10.9,চোখ ওঠা,22,itchy red eyes going around at school among classmates,expansion_v1
+H10.9,চোখ ওঠা,23,eye feels irritated with a foreign-body sensation and redness,expansion_v1
+H10.9,চোখ ওঠা,24,"child's eyes are red and gluey, especially on waking",expansion_v1
+H10.9,চোখ ওঠা,25,conjunctiva looks inflamed with persistent yellowish discharge,expansion_v1
+R07.9,বুকে ব্যথা,16,tight pressure in the chest that comes on with exertion and eases with rest,expansion_v1
+R07.9,বুকে ব্যথা,17,chest pain radiating down the left arm with sweating,expansion_v1
+R07.9,বুকে ব্যথা,18,sudden heavy pressure in the centre of the chest,expansion_v1
+R07.9,বুকে ব্যথা,19,chest discomfort with shortness of breath and cold sweat,expansion_v1
+R07.9,বুকে ব্যথা,20,squeezing sensation in the chest spreading to the jaw,expansion_v1
+R07.9,বুকে ব্যথা,21,chest pain that worsens on climbing stairs,expansion_v1
+R07.9,বুকে ব্যথা,22,pressure in the chest with nausea and dizziness,expansion_v1
+R07.9,বুকে ব্যথা,23,left-sided chest pain radiating to the shoulder,expansion_v1
+R07.9,বুকে ব্যথা,24,chest feels constricted with difficulty breathing during the episode,expansion_v1
+R07.9,বুকে ব্যথা,25,recurrent chest tightness triggered by physical activity,expansion_v1
+Z34.9,গর্ভাবস্থা,16,missed period for over a month with morning nausea,expansion_v1
+Z34.9,গর্ভাবস্থা,17,"feeling nauseous at the smell of food, period is late",expansion_v1
+Z34.9,গর্ভাবস্থা,18,"confirmed pregnancy test positive, feeling weak and tired",expansion_v1
+Z34.9,গর্ভাবস্থা,19,morning sickness with a missed menstrual cycle,expansion_v1
+Z34.9,গর্ভাবস্থা,20,breast tenderness and a missed period this month,expansion_v1
+Z34.9,গর্ভাবস্থা,21,"nausea in the mornings along with unusual fatigue, period overdue",expansion_v1
+Z34.9,গর্ভাবস্থা,22,"positive pregnancy test, now experiencing mild dizziness",expansion_v1
+Z34.9,গর্ভাবস্থা,23,missed period with frequent urination and nausea,expansion_v1
+Z34.9,গর্ভাবস্থা,24,"early pregnancy symptoms — nausea, fatigue, and a missed cycle",expansion_v1
+Z34.9,গর্ভাবস্থা,25,"confirmed pregnant, feeling low energy and occasional nausea",expansion_v1
+K08.8,দাঁতে ব্যথা,16,sharp pain in one tooth when biting down,expansion_v1
+K08.8,দাঁতে ব্যথা,17,throbbing pain localized to the lower left molar,expansion_v1
+K08.8,দাঁতে ব্যথা,18,tooth sensitive to cold water in one specific spot,expansion_v1
+K08.8,দাঁতে ব্যথা,19,swollen gum around a particular tooth that hurts to touch,expansion_v1
+K08.8,দাঁতে ব্যথা,20,constant ache in one tooth radiating to the ear,expansion_v1
+K08.8,দাঁতে ব্যথা,21,"pain when chewing on one side, seems to be a specific tooth",expansion_v1
+K08.8,দাঁতে ব্যথা,22,a cavity visible in one tooth causing sharp pain,expansion_v1
+K08.8,দাঁতে ব্যথা,23,gum bleeding and tenderness localized around one tooth,expansion_v1
+K08.8,দাঁতে ব্যথা,24,jaw pain on one side traced to a specific aching tooth,expansion_v1
+K08.8,দাঁতে ব্যথা,25,"tooth pain that worsens with hot or cold food, one tooth only",expansion_v1
+Z34.9,গর্ভাবস্থা,26,my monthly cycle did not come this time,pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,27,"it has been over a month since my last period, nothing since",pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,28,"feeling sick to the stomach every morning lately, cycle is late",pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,29,the usual monthly thing has not happened for weeks now,pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,30,morning sickness and a late cycle this month,pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,31,waiting for my period which is now quite overdue,pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,32,smells that never bothered me before now make me feel ill,pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,33,doctor confirmed there is a baby on the way,pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,34,we found out we are expecting our first child,pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,35,"test came back positive, we are expecting",pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,36,"body feels different lately, breasts are tender, cycle is late",pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,37,"expecting a baby in a few months, feeling unusually tired",pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,38,trying to conceive and now missed a cycle with morning nausea,pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,39,"family is excited, a new baby is expected soon",pregnancy_targeted_fix
+Z34.9,গর্ভাবস্থা,40,"noticed the classic early signs — missed cycle, nausea, fatigue",pregnancy_targeted_fix

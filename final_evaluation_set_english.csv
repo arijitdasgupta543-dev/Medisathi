@@ -1,0 +1,73 @@
+﻿icd10,disease_bn,case_no,query_bn,query_en
+A09,ডায়রিয়া (বড়দের),1,কাল থেকে টয়লেটে বারবার যেতে হচ্ছে পায়খানা পাতলা,"having to go to the toilet repeatedly since yesterday, loose motions"
+A09,ডায়রিয়া (বড়দের),2,পথের ধারের শরবত খাওয়ার পর পেট খারাপ হয়েছে,stomach upset after drinking a roadside beverage
+A09,ডায়রিয়া (বড়দের),3,পেট মোচড়াচ্ছে আর টয়লেট থেকে উঠতেই পারছি না,stomach is cramping and cannot get up from the toilet
+A09,ডায়রিয়া (বড়দের),4,সারাদিনে অনেকবার পায়খানা হয়েছে শরীর নেতিয়ে পড়েছে,"loose motions many times through the day, body has gone limp"
+A09.1,শিশুর ডায়রিয়া,1,আমার দুই বছরের বাচ্চার পেট খারাপ হয়েছে খেলনা নিয়েও খেলছে না,"my two-year-old's stomach is upset, not even playing with toys"
+A09.1,শিশুর ডায়রিয়া,2,নাতনির পায়খানা ঘন ঘন হচ্ছে কান্নাকাটি করছে,"granddaughter's motions are frequent, crying a lot"
+A09.1,শিশুর ডায়রিয়া,3,ছোট্ট মেয়েটার শরীর গরম না কিন্তু পেট চলছে খুব,the little girl's body isn't hot but her bowels are very loose
+A09.1,শিশুর ডায়রিয়া,4,শিশুর ন্যাপি বারবার ভিজে যাচ্ছে পাতলা পায়খানায়,the infant's nappy keeps getting wet from loose stools
+B82.0,কৃমি,1,মেয়েটার নাক দিয়ে ঘন ঘন হাত যায় পেটে অস্বস্তি হয় বলে,"the girl keeps putting her hand to her bottom, says it's uncomfortable"
+B82.0,কৃমি,2,স্কুলের পরীক্ষায় মনোযোগ দিতে পারছে না পেটের অস্বস্তিতে,cannot concentrate in school exams because of stomach discomfort
+B82.0,কৃমি,3,রাতে ছেলেটা বিছানায় ছটফট করে পাছার দিকে হাত দেয়,"the boy is restless in bed at night, hand near the anus"
+B82.0,কৃমি,4,খেতে বসলে অরুচি লাগে অথচ শরীর রোগা হয়ে যাচ্ছে দিন দিন,no appetite at meals yet the body is getting thinner day by day
+R50.9,জ্বর (সাধারণ),1,কপালে হাত দিয়ে দেখলাম গরম লাগছে সন্ধ্যার পর থেকে,touched the forehead and it feels hot since evening
+R50.9,জ্বর (সাধারণ),2,কাজে যেতে পারিনি শরীরে তাপ অনুভব করছি,"could not go to work, feeling heat in the body"
+R50.9,জ্বর (সাধারণ),3,গায়ে কাঁথা দিয়েও কাঁপুনি থামছে না গরম লাগে আবার ঠান্ডাও,"wrapped in a blanket but the shivering will not stop, feels hot then cold"
+R50.9,জ্বর (সাধারণ),4,থার্মোমিটারে মেপে দেখি একশোর উপরে ছিল,"measured with a thermometer, it was above a hundred"
+A90,ডেঙ্গু সন্দেহ,1,এলাকায় মশাবাহিত রোগ ছড়াচ্ছে শুনেছি আমারও শরীর ভীষণ ব্যথা করছে জ্বরের সাথে,"mosquito-borne illness is spreading in the area, my whole body aches badly with fever"
+A90,ডেঙ্গু সন্দেহ,2,চোখ নাড়াতে কষ্ট হচ্ছে জ্বরের সাথে সাথে,hard to move the eyes along with the fever
+A90,ডেঙ্গু সন্দেহ,3,প্লেটলেট পরীক্ষা করাতে বলেছেন ডাক্তার কারণ জ্বর কমছেই না,doctor asked for a platelet test because the fever will not go down
+A90,ডেঙ্গু সন্দেহ,4,শরীরে লালচে ছোপ দেখা যাচ্ছে জ্বরের চার দিন পর,reddish spots visible on the body four days into the fever
+J00,সাধারণ সর্দি-কাশি,1,অফিসে এসি-তে বসে থেকে সর্দি লেগে গেছে মনে হয়,"caught a cold sitting under the office AC, it seems"
+J00,সাধারণ সর্দি-কাশি,2,টিস্যু শেষ হয়ে যাচ্ছে নাক মুছতে মুছতে,running out of tissues wiping the nose
+J00,সাধারণ সর্দি-কাশি,3,গলাটা কেমন সুড়সুড় করছে আর হাঁচি থামছেই না,the throat feels scratchy and the sneezing will not stop
+J00,সাধারণ সর্দি-কাশি,4,বৃষ্টিতে ভিজে বাড়ি ফেরার পর থেকে নাক দিয়ে পানি,runny nose since getting soaked in the rain on the way home
+J18.9,নিউমোনিয়া,1,বয়স্ক বাবার শ্বাস নেওয়ার সময় বুক থেকে একটা শব্দ আসছে,elderly father makes a sound in the chest when breathing
+J18.9,নিউমোনিয়া,2,কয়েকদিনের জ্বর কমছেই না সাথে বুকে টান অনুভব করেন,"fever for several days will not settle, feels tightness in the chest"
+J18.9,নিউমোনিয়া,3,কাশতে কাশতে হাঁপিয়ে যাচ্ছেন কথা বলতেও কষ্ট হয়,"gasping while coughing, even talking is hard"
+J18.9,নিউমোনিয়া,4,শিশুটির নিঃশ্বাস দ্রুত চলছে বুকের নিচের অংশ দেবে যাচ্ছে,"the child's breathing is fast, the lower chest is drawing in"
+K30,গ্যাস্ট্রিক/অম্লতা,1,মসলাদার খাবার খাওয়ার পর থেকে বুকে একটা অস্বস্তি লেগেই আছে,an uneasy feeling in the chest ever since eating spicy food
+K30,গ্যাস্ট্রিক/অম্লতা,2,সকালে নাস্তার আগে পেটের দিকটায় চিনচিন করে,a stinging feeling in the stomach area before breakfast
+K30,গ্যাস্ট্রিক/অম্লতা,3,রাতে খাওয়ার পর শুয়ে পড়লেই গলা দিয়ে টক কিছু উঠে আসে,sour fluid comes up the throat on lying down after the night meal
+K30,গ্যাস্ট্রিক/অম্লতা,4,অনেকদিন ধরে পেটে গ্যাসের সমস্যা এন্টাসিড খেলে সাময়িক আরাম পাই,"long-standing gas problem, antacid gives temporary relief"
+N39.0,মূত্রনালীর সংক্রমণ,1,টয়লেটে যাওয়ার সময় জ্বালাপোড়া অনুভব করি প্রতিবার,feel a burning sensation every time I go to the toilet
+N39.0,মূত্রনালীর সংক্রমণ,2,সারাদিনে অনেকবার টয়লেটে যেতে হচ্ছে অথচ প্রস্রাব কম হয়,having to go to the toilet many times a day yet passing little urine
+N39.0,মূত্রনালীর সংক্রমণ,3,তলপেটে একটা চাপ চাপ ভাব সবসময় লেগে থাকে,a constant pressing sensation in the lower abdomen
+N39.0,মূত্রনালীর সংক্রমণ,4,প্রস্রাবের রঙ বদলে গেছে আর গন্ধও কেমন অস্বাভাবিক,the colour of the urine has changed and the smell is unusual
+I10,উচ্চ রক্তচাপ,1,মাথার পেছনটায় একটা ভারী ভাব সবসময় লেগে থাকে,a heavy feeling at the back of the head all the time
+I10,উচ্চ রক্তচাপ,2,চোখে হঠাৎ ঝাপসা দেখলাম মাথাটাও ঘুরে উঠল,suddenly saw things blurred and the head spun too
+I10,উচ্চ রক্তচাপ,3,প্রেসার মাপার মেশিনে অনেকদিন ধরে বেশি রিডিং আসছে,the pressure machine has been showing a high reading for a while
+I10,উচ্চ রক্তচাপ,4,কানের কাছে একটা শব্দ শুনি মাঝে মাঝে মাথা ভার লাগে,"hear a sound near the ear sometimes, head feels heavy"
+E11.9,ডায়াবেটিস (টাইপ ২),1,সারাক্ষণ মুখ শুকিয়ে যায় পানি খেয়েও তৃষ্ণা মেটে না,"mouth keeps going dry, thirst does not go away even after drinking water"
+E11.9,ডায়াবেটিস (টাইপ ২),2,শরীরের কোনো ছোট কাটাছেঁড়াও সহজে সারতে চায় না,even small cuts on the body do not heal easily
+E11.9,ডায়াবেটিস (টাইপ ২),3,রাতে কয়েকবার ঘুম ভেঙে বাথরুমে যেতে হয়,waking up a few times at night to go to the bathroom
+E11.9,ডায়াবেটিস (টাইপ ২),4,হঠাৎ চোখে ঝাপসা দেখছি আর ওজনও কমে যাচ্ছে,suddenly seeing blurred and losing weight too
+B35.9,চর্মরোগ (ছত্রাক/দাদ),1,কুঁচকির কাছে একটা লালচে দাগ ক্রমশ বড় হচ্ছে,a reddish patch near the groin is gradually getting bigger
+B35.9,চর্মরোগ (ছত্রাক/দাদ),2,পায়ের পাতার ফাঁকে চামড়া উঠে যাচ্ছে আর জ্বালা করে,skin peeling between the toes and it burns
+B35.9,চর্মরোগ (ছত্রাক/দাদ),3,গ্রীষ্মকালে ঘামের জায়গাগুলোয় দাগ বেশি ছড়ায়,patches spread more in the sweaty areas during summer
+B35.9,চর্মরোগ (ছত্রাক/দাদ),4,মাথার ত্বকে খুশকির মতো কিছু জমে আর অস্বস্তি হয়,something like dandruff collects on the scalp and it is uncomfortable
+B86,ঘা-পাঁচড়া,1,সন্ধ্যার পর থেকে শরীরে একটা অস্বস্তিকর অনুভূতি শুরু হয় চুলকানির,an uncomfortable itching feeling starts in the body after evening
+B86,ঘা-পাঁচড়া,2,হাতের তালুতে ছোট ছোট ফোসকার মতো কিছু দেখা যাচ্ছে,small blister-like bumps visible on the palm
+B86,ঘা-পাঁচড়া,3,একসাথে থাকা সবার শরীরেই একই রকম সমস্যা দেখা দিয়েছে,everyone living together has developed the same problem
+B86,ঘা-পাঁচড়া,4,কাপড় পাল্টানোর সময় শরীরে সরু রেখার মতো দাগ চোখে পড়ল,noticed thin line-like marks on the body while changing clothes
+M13.9,বাতের ব্যথা,1,সিঁড়ি দিয়ে ওঠানামা করতে গেলে হাঁটুতে টান লাগে,the knee pulls when going up or down stairs
+M13.9,বাতের ব্যথা,2,সকালে বিছানা থেকে উঠতে গেলে শরীর প্রথমে নড়তেই চায় না,the body does not want to move at first on getting out of bed in the morning
+M13.9,বাতের ব্যথা,3,বৃদ্ধ মায়ের আঙুলের গাঁটগুলো ফুলে বেঁকে যাচ্ছে,the elderly mother's finger joints are swollen and bending
+M13.9,বাতের ব্যথা,4,বসা থেকে দাঁড়াতে গেলে হাঁটুতে একটা মট শব্দ হয়,a popping sound in the knee on standing up from sitting
+H10.9,চোখ ওঠা,1,সকালে চোখের পাতা একসাথে লেগে ছিল ধোয়ার পর খুলল,"the eyelids were stuck together in the morning, opened after washing"
+H10.9,চোখ ওঠা,2,স্কুল থেকে ফেরার পর ছেলের চোখ লাল টকটকে হয়ে আছে,son's eye is bright red after coming back from school
+H10.9,চোখ ওঠা,3,চোখে কিছু একটা পড়ে থাকার মতো অনুভূতি সারাক্ষণ,a constant feeling as if something is stuck in the eye
+H10.9,চোখ ওঠা,4,চশমা পরলেও চোখ থেকে পানি পড়া থামছে না,wearing glasses too but the eye still keeps watering
+R07.9,বুকে ব্যথা,1,সিঁড়ি ভাঙার সময় বুকের মাঝখানটায় একটা চাপ অনুভব করি,feel a pressure in the middle of the chest while climbing stairs
+R07.9,বুকে ব্যথা,2,ঘুম থেকে উঠে হঠাৎ বুকের বাম পাশে অস্বস্তি শুরু হলো,sudden discomfort in the left side of the chest after waking up
+R07.9,বুকে ব্যথা,3,ঠান্ডা ঘাম দিয়ে বুকে একটা ভারী চাপ অনুভব করছি,a heavy pressure in the chest along with a cold sweat
+R07.9,বুকে ব্যথা,4,শ্বাস নিতে গেলে বুকের ভেতর কিছু একটা চেপে ধরছে মনে হয়,something seems to be gripping inside the chest when trying to breathe
+Z34.9,গর্ভাবস্থা,1,এই মাসে নিয়মিত সময়ে যা হওয়ার কথা ছিল তা হয়নি,what was supposed to happen regularly this month did not happen
+Z34.9,গর্ভাবস্থা,2,সকালবেলা খাবারের গন্ধেই গা গুলিয়ে ওঠে,the smell of food alone makes me feel queasy in the morning
+Z34.9,গর্ভাবস্থা,3,শরীরে একটা নতুন পরিবর্তন টের পাচ্ছি কয়েক সপ্তাহ ধরে,noticing a new change in the body for a few weeks
+Z34.9,গর্ভাবস্থা,4,ডাক্তার দেখিয়ে নিশ্চিত হয়েছি নতুন অতিথি আসছে,confirmed with the doctor that a new guest is coming
+K08.8,দাঁতে ব্যথা,1,ঠান্ডা কিছু মুখে দিলেই একটা দাঁতে শিরশির অনুভূতি হয়,putting anything cold in the mouth causes a tingling in one tooth
+K08.8,দাঁতে ব্যথা,2,রাতে বালিশে মাথা রাখলেই একদিকের চোয়ালে চিনচিন ব্যথা,a dull ache on one side of the jaw when the head rests on the pillow
+K08.8,দাঁতে ব্যথা,3,চিবানোর সময় একটা নির্দিষ্ট জায়গায় ব্যথা অনুভব করি,feel pain in one particular spot while chewing
+K08.8,দাঁতে ব্যথা,4,মাড়ির একটা অংশ ফুলে গিয়ে স্পর্শ করলেই ব্যথা লাগে,part of the gum has swollen and hurts to the touch

@@ -1,0 +1,46 @@
+﻿molecule,drug_class,route,tier,for_icd10,contraindicated_icd10,contraindication_note_bn,review_status,reviewed_by,source_ref
+ORS,ORS + Zinc,oral,OTC,A09;A09.1,,,draft,,
+Zinc Sulfate,ORS + Zinc,oral,OTC,A09,,,draft,,
+Zinc Sulfate Syrup,ORS + Zinc syrup,oral,OTC,A09.1,,,draft,,
+Albendazole,Anthelmintic,oral,OTC,B82.0,Z34.9,গর্ভাবস্থায় প্রথম ত্রৈমাসিকে এড়ানো উচিত,draft,,
+Mebendazole,Anthelmintic,oral,OTC,B82.0,Z34.9,গর্ভাবস্থায় প্রথম ত্রৈমাসিকে এড়ানো উচিত,draft,,
+Paracetamol,Antipyretic,oral,OTC,R50.9;A90;K08.8,,ডেঙ্গুতে একমাত্র নিরাপদ ব্যথানাশক,draft,,
+Ibuprofen,NSAID,oral,OTC,R50.9;M13.9;K08.8,A90;I10;K30;Z34.9,ডেঙ্গুতে রক্তক্ষরণ; উচ্চ রক্তচাপ ও আলসারে ঝুঁকি,draft,,
+Aspirin,Antiplatelet,oral,REFER_ONLY,R07.9,A90;K30;Z34.9,ডেঙ্গু ও আলসারে রক্তক্ষরণের ঝুঁকি,draft,,
+Cetirizine,Antihistamine (H1 blocker),oral,OTC,J00,,,draft,,
+Loratadine,Antihistamine (H1 blocker),oral,OTC,J00,,,draft,,
+Fexofenadine,Antihistamine (H1 blocker),oral,OTC,J00,,,draft,,
+Azithromycin,Antibiotic (macrolide),oral,ANTIBIOTIC,J18.9,,WHO AWaRe: Watch,ai-checked,Claude (AI),WHO AWaRe 2023 (via Health Canada CAN-AWaRe listing)
+Amoxicillin,Antibiotic (penicillin),oral,ANTIBIOTIC,J18.9,,WHO AWaRe: Access,ai-checked,Claude (AI),WHO AWaRe 2023 (via Health Canada CAN-AWaRe listing)
+Ceftriaxone,Antibiotic (cephalosporin),injection,REFER_ONLY,J18.9,,WHO AWaRe: Watch; ইনজেকশন — ফার্মেসিতে দেওয়ার বিষয় নয়,ai-checked,Claude (AI),WHO AWaRe 2023 (via Health Canada CAN-AWaRe listing)
+Omeprazole,PPI,oral,OTC,K30,,,draft,,
+Esomeprazole,PPI,oral,OTC,K30,,,draft,,
+Pantoprazole,PPI,oral,OTC,K30,,,draft,,
+Calcium Carbonate,Antacid,oral,OTC,K30,,বেশি মাত্রায় কোষ্ঠকাঠিন্য,draft,,
+Magnesium Hydroxide,Antacid,oral,OTC,K30,,কিডনি রোগে ম্যাগনেসিয়াম জমতে পারে,draft,,
+Aluminium Hydroxide,Antacid,oral,OTC,K30,,কোষ্ঠকাঠিন্য-প্রবণ,draft,,
+Sodium Bicarbonate,Antacid,oral,OTC,K30,I10,উচ্চ sodium — উচ্চ রক্তচাপে এড়ানো উচিত,draft,,
+Nitrofurantoin,Antibiotic (nitrofuran),oral,ANTIBIOTIC,N39.0,Z34.9,WHO AWaRe: Access; গর্ভাবস্থার শেষ পর্যায়ে এড়ানো,ai-checked,Claude (AI),WHO AWaRe 2023 (via Health Canada CAN-AWaRe listing)
+Ciprofloxacin,Antibiotic (fluoroquinolone),oral,ANTIBIOTIC,N39.0,Z34.9,WHO AWaRe: Watch,ai-checked,Claude (AI),WHO AWaRe 2023 (via Health Canada CAN-AWaRe listing)
+Cefixime,Antibiotic (cephalosporin),oral,ANTIBIOTIC,N39.0,,WHO AWaRe: Watch,ai-checked,Claude (AI),WHO AWaRe 2023 (via Health Canada CAN-AWaRe listing)
+Amlodipine,CCB,oral,PRESCRIPTION,I10,,,draft,,
+Losartan Potassium,ARB,oral,PRESCRIPTION,I10,Z34.9,গর্ভাবস্থায় নিষিদ্ধ,draft,,
+Atenolol,Beta-blocker,oral,PRESCRIPTION,I10,,হাঁপানিতে সতর্কতা,draft,,
+Metformin,Biguanide,oral,PRESCRIPTION,E11.9,,,draft,,
+Gliclazide,Sulfonylurea,oral,PRESCRIPTION,E11.9,,রক্তে চিনি কমে যাওয়ার ঝুঁকি,draft,,
+Linagliptin,DPP-4 inhibitor,oral,PRESCRIPTION,E11.9,,,draft,,
+Clotrimazole,Antifungal (azole),topical,OTC,B35.9,,,draft,,
+Terbinafine,Antifungal (allylamine),topical,OTC,B35.9,,,draft,,
+Fluconazole,Antifungal (azole),oral,PRESCRIPTION,B35.9,Z34.9,মুখে খাওয়ার ধরন; গর্ভাবস্থায় এড়ানো,draft,,
+Permethrin 5%,Scabicide,topical,OTC,B86,,,draft,,
+Ivermectin,Scabicide,oral,PRESCRIPTION,B86,Z34.9,মুখে খাওয়ার ধরন; গর্ভাবস্থায় এড়ানো,draft,,
+Etoricoxib,NSAID (COX-2),oral,OTC,M13.9,I10;K30;Z34.9;A90,উচ্চ রক্তচাপ আলসার গর্ভাবস্থা ও ডেঙ্গুতে এড়ানো,draft,,
+Naproxen,NSAID,oral,OTC,M13.9,I10;K30;Z34.9;A90,একই সতর্কতা,draft,,
+Celecoxib,NSAID (COX-2),oral,OTC,M13.9,I10;K30;Z34.9;A90,একই সতর্কতা,draft,,
+Moxifloxacin Eye Drop,Topical antibiotic,eye drop,ANTIBIOTIC,H10.9,,WHO AWaRe: Watch,draft,,AWaRe group NOT confirmed - needs checking
+Tobramycin Eye Drop,Topical antibiotic,eye drop,ANTIBIOTIC,H10.9,,,draft,,AWaRe group NOT confirmed - needs checking
+Nitroglycerin,Nitrate,sublingual,REFER_ONLY,R07.9,,⚠️ হঠাৎ রক্তচাপ পতনের ঝুঁকি — ফার্মেসিতে নয়,draft,,
+Isosorbide Dinitrate,Nitrate,oral,REFER_ONLY,R07.9,,⚠️ ফার্মেসিতে নয়,draft,,
+Folic Acid,Supplement,oral,OTC,Z34.9,,নিউরাল টিউব ডিফেক্ট প্রতিরোধ,draft,,
+Ferrous Sulfate,Supplement,oral,OTC,Z34.9,,,draft,,
+Calcium (Pregnancy),Supplement,oral,OTC,Z34.9,,,draft,,

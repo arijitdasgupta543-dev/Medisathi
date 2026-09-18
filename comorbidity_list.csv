@@ -1,0 +1,31 @@
+icd10,name_bn,name_en,in_knowledge_base,note_bn
+A09,ডায়রিয়া,Diarrhea,YES,
+B82.0,কৃমি,Intestinal worms,YES,
+R50.9,জ্বর,Fever,YES,
+A90,ডেঙ্গু,Dengue,YES,রক্তক্ষরণের ঝুঁকি — NSAID নিষিদ্ধ
+J00,সর্দি-কাশি,Common cold,YES,
+J18.9,নিউমোনিয়া,Pneumonia,YES,
+K30,গ্যাস্ট্রিক/আলসার,Gastric / peptic ulcer,YES,পাকস্থলীর দেয়াল দুর্বল — NSAID সতর্কতা
+N39.0,মূত্রনালীর সংক্রমণ,Urinary tract infection,YES,
+I10,উচ্চ রক্তচাপ,Hypertension,YES,sodium ও NSAID সতর্কতা
+E11.9,ডায়াবেটিস,Type 2 diabetes,YES,
+B35.9,চর্মরোগ (ছত্রাক),Fungal skin infection,YES,
+B86,ঘা-পাঁচড়া,Scabies,YES,
+M13.9,বাতের ব্যথা,Arthritis,YES,
+H10.9,চোখ ওঠা,Conjunctivitis,YES,
+R07.9,বুকে ব্যথা,Chest pain,YES,ফার্মেসিতে ওষুধ নয় — সরাসরি রেফার
+Z34.9,গর্ভাবস্থা,Pregnancy,YES,অনেক ওষুধ নিষিদ্ধ — প্রসবের পর resolve করবেন
+K08.8,দাঁতে ব্যথা,Toothache,YES,
+A09.1,শিশুর ডায়রিয়া,Child diarrhea,YES,
+N18.9,কিডনি রোগ,Chronic kidney disease,NO,⚠️ ওষুধ শরীর থেকে বের হতে দেরি হয় — ডাক্তারের পরামর্শ জরুরি
+K76.9,লিভারের রোগ,Liver disease,NO,⚠️ ওষুধ ভাঙার ক্ষমতা কম — ডাক্তারের পরামর্শ জরুরি
+J45.9,হাঁপানি,Asthma,NO,⚠️ কিছু ওষুধে শ্বাসকষ্ট বাড়তে পারে
+I25.9,হৃদরোগ,Heart disease,NO,⚠️ ডাক্তারের তত্ত্বাবধান প্রয়োজন
+I63.9,স্ট্রোক (পূর্ব ইতিহাস),Past stroke,NO,⚠️ রক্ত পাতলা করার ওষুধে সতর্কতা
+A15.9,যক্ষ্মা,Tuberculosis,NO,⚠️ দীর্ঘমেয়াদি চিকিৎসা চলমান থাকতে পারে
+D64.9,রক্তশূন্যতা,Anemia,NO,
+E03.9,থাইরয়েডের সমস্যা,Thyroid disorder,NO,
+K21.9,বুক জ্বালা (রিফ্লাক্স),Acid reflux,NO,
+G40.9,মৃগী রোগ,Epilepsy,NO,⚠️ অনেক ওষুধের সাথে সংঘাত হতে পারে
+F32.9,বিষণ্ণতা/মানসিক সমস্যা,Depression / mental health,NO,⚠️ ওষুধের সংঘাত সম্ভব
+Z21,এইচআইভি,HIV,NO,⚠️ ডাক্তারের তত্ত্বাবধান প্রয়োজন
